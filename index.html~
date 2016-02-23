@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html hola_ext_inject="disabled"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+		<title>Zachary Weeden</title>
+		<meta name="viewport" content="width=device-width, initial-scale=0.5">
+		<link rel="stylesheet" media="screen and (min-width: 1020px)" href="css_files/index.css">
+		<link rel="stylesheet" media="screen and (max-width: 1019px)" href="css_files/mobile.css">
+		<link href="css" rel="stylesheet" type="text/css">
+		
+	<style type="text/css"></style></head>
+
+	<body>		
+		<div class="profile">
+			<img class="avatar" src="images/ZacharyWeeden.png">
+
+			<h1>Zachary Weeden</h1>
+			<h2 class="fixmargin">Programmer, <br>Fitness Fanatic &amp; <br>Sneaker Lover</h2>
+			<p>
+				<a href="https://github.com/zweed4u" style="color: #DEDC72;">github</a><br>
+				<a href="https://twitter.com/zweed4u" style="color: #59adeb">twitter</a><br>
+				<a href="https://www.linkedin.com/in/zachary-weeden-9965a93a" style="color: #1275b1;">linkedin</a><br>
+				<a href="https://instagram.com/zweed4u" style="color: #4492d8;">instagram</a><br>
+				<a href="files/ZacharyWeeden_2016.pdf" style="color: #D87C97;">resumé</a><br>
+				<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=zackweeden@aol.com&lc=US&item_name=donation&item_number=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted" style="color: #4C7BD8;">donate</a><br>
+				<a href="mailto:zdw7287@rit.edu" style="color: #A1DEBC;">email</a><br>
+				<a href="tel:9784241345" style="color: white;">(978) 424-1345</a>
+			</p>
+
+
+
+
+
+			<p class="footer">© 2016<br>Zachary Weeden<br>
+				<br>- <a href="http://zweedvaio.student.rit.edu">myVaio</a>
+				<br>- <a href="http://twitter.com/jayzer1217">sneaker twitter</a>
+			</p>
+		</div>
+
+		<div class="biography-container"><div class="biography">
+			<p>
+				<a href="https://github.com/zweed4u/SnapSave"><img class="icon" src="images/snapchat.png"></a>
+				<a href="https://twitter.com/jayzer1217"><img class="icon" src="images/jayzer1217.png"></a>
+			</p>
+						
+			<h3>Mathematically inclined, logistician who enjoys automation and sharing my knowledge with others.</h3>
+			
+			
+			<div class="paragraphs">
+				<p>My first paragraph about me</p>
+
+				<p>My second paragraph/tid bit about me</p>
+
+				<p>My third paragraph including links and other misc. information</p>
+			</div>
+			<br>
+		</div>
+		</div>	
+
+</body></html>

@@ -20,7 +20,17 @@ img.avatar {
 	height: 150px;
 	border-radius: 50%;
 }
-
+img.revarrow {
+	position: fixed;
+   	bottom: 0;
+   	left: 250px;
+  
+}
+img.arrow {
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+  }
 img.icon {
 	width: 70px;
 	height: 70px;

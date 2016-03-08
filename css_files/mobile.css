@@ -14,13 +14,23 @@ body {
 	color: #CCCCCC;
 	background: #8B8B8B; 
 }
-
+img.revarrow {
+	position: fixed;
+   	bottom: 0;
+   	left: 220px;
+  
+}
 img.avatar {
 	width: 125px;
 	height: 125px;
 	border-radius: 50%;
 }
-
+img.arrow{
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+  
+}
 .icon {
 	
 	float: center;
@@ -128,7 +138,8 @@ h3 {
 	padding-bottom: 20px;
 	padding-right: 20px;
 
-	min-width: 360px;	
+	min-width: 360px;
+	margin-right: 50%;	
 }
 
 .biography a {
@@ -142,5 +153,5 @@ h3 {
 }
 
 .paragraphs {
-	margin-top: 115px;
+	margin-top: 140px;
 } 
